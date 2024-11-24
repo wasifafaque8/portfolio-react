@@ -4,7 +4,7 @@ import photo from '../../../assets/photo.jpeg'
 
 const Hero = () => {
   return (
-    <div className='hero'>
+    <div  className='hero'>
         <img src={photo}  alt=""/>
         <h1>I'am Afaque Wasif , frontend developer based in India</h1>
         <p>I am a frontend developer from Delhi, India with 0 years of experience </p>

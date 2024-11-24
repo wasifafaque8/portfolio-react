@@ -6,7 +6,7 @@ import arrow_icon from '../../assets/arrow_icon.svg'
 
 const services = () => {
   return (
-    <div className='services'>
+    <div  className='services'>
         <div className="services-title">
             <h1>My Services</h1>
             <img src={theme_pattern}   alt=""/>
@@ -30,6 +30,6 @@ const services = () => {
     </div>
   )
 }
-import './services.css'
+
 
 export default services
